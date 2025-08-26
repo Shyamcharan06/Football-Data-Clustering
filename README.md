@@ -29,25 +29,25 @@ It focuses on **unsupervised learning** (clustering) and how algorithms like K-M
 Here are some visualizations from the project:  
 
 ### 1. Player Work Rates & Ratings Distribution
-![Work Rates and Ratings](assets/img1.png)  
+![Work Rates and Ratings](Assets/img1.png)  
 *Distribution of players by attacking/defensive work rates, overall rating, and potential. Most players fall within a medium work rate and average overall rating range.*  
 
 ---
 
 ### 2. Japanese Player Performance Trends (2008–2016)
-![Japanese Players](assets/img2.png)  
+![Japanese Players](Assets/img2.png)  
 *Tracking the ratings of notable Japanese players across different ages, highlighting their career progressions and peak performance years.*  
 
 ---
 
 ### 3. Cluster Feature Importance
-![Cluster Features](assets/img3.png)  
+![Cluster Features](Assets/img3.png)  
 *Comparison of different clusters based on attributes such as dribbling, agility, passing, and finishing. This highlights what makes each group of players unique.*  
 
 ---
 
 ### 4. Hierarchical Clustering Dendrogram
-![Hierarchical Clustering](assets/img4.png)  
+![Hierarchical Clustering](Assets/img4.png)  
 *A dendrogram showing hierarchical clustering of players, revealing similarities and groupings between footballers based on their attributes.*  
 
 ---
